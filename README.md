@@ -1,6 +1,6 @@
 # 🖖🏻 Hello there!
 
-I'm Kevin Lacerda, a software developer focused on building practical and efficient applications.  
+I'm Kevin Coelho, a software developer focused on building practical and efficient applications.  
 I enjoy learning new technologies, creating projects, and improving my problem-solving skills through code.
 
 Currently studying and developing projects involving web development and software engineering concepts.  
